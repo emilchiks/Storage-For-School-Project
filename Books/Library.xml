@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SchoolClasses>
+    <ClassGroup name="10">
+        <Book>
+            <FileName>10_FirstBook_2010_1.pdf</FileName>
+            <Subject>Алгебра</Subject>
+        </Book>
+        <Book>
+            <FileName>10_SecondBook_2015_2.pdf</FileName>
+            <Subject>Русский язык</Subject>
+        </Book>
+    </ClassGroup>
+    <ClassGroup name="11">
+        <Book>
+            <FileName>11_ThirdBook_2020_3.pdf</FileName>
+            <Subject>Физика</Subject>
+        </Book>
+        <Book>
+            <FileName>11_NewBook_2018_4.pdf</FileName>
+            <Subject>Химия</Subject>
+        </Book>
+    </ClassGroup>
+</SchoolClasses>
