@@ -1,5 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <SchoolClasses>
+    <ClassGroup name="9">
+        <Book>
+            <FileName>9_Test_2013_9.pdf</FileName>
+            <Subject>Unknown</Subject>
+        </Book>
+    </ClassGroup>
     <ClassGroup name="10">
         <Book>
             <FileName>10_FirstBook_2010_1.pdf</FileName>
