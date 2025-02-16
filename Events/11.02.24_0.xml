@@ -2,7 +2,17 @@
 <event>
     <date>11.02.2025</date>
     <title>Important event</title>
+    <image>0</image>
     <description>
-    Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim.
+    Мероприятие
     </description>
 </event>
+
+<!--ImageIndexes-->
+
+<!--
+0 - Спортивные мероприятия
+1 - Обучение
+2 - Ярмарки
+3 - Остальное
+-->
