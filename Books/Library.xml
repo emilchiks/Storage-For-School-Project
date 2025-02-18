@@ -2,50 +2,39 @@
 <SchoolClasses>
     <ClassGroup name="10">
         <Book>
-            <FileName>10_Algebra_Unknown_1.pdf</FileName>
-            <Subject>Алгебра</Subject>
+            <FileName>10_Алгебра_Unknown_1.pdf</FileName>
         </Book>
         <Book>
-            <FileName>10_GeneralHistory_2023_3.pdf</FileName>
-            <Subject>История</Subject>
+            <FileName>10_История_2023_3.pdf</FileName>
         </Book>
         <Book>
-            <FileName>10_Geography_2012_8.pdf</FileName>
-            <Subject>География</Subject>
+            <FileName>10_География_2012_8.pdf</FileName>
         </Book>
         <Book>
-            <FileName>10_Geometry_2013_7.pdf</FileName>
-            <Subject>Геометрия</Subject>
+            <FileName>10_Геометрия_2013_7.pdf</FileName>
         </Book>
         <Book>
-            <FileName>10_Physics_2014_6.pdf</FileName>
-            <Subject>Физика</Subject>
+            <FileName>10_Физика_2014_6.pdf</FileName>
         </Book>
         <Book>
-            <FileName>10_ProbabilityAndStatistics_2023_5.pdf</FileName>
-            <Subject>Статистика</Subject>
+            <FileName>10_Статистика_2023_5.pdf</FileName>
         </Book>
         <Book>
-            <FileName>10_RussianHistory_2023_3.pdf</FileName>
-            <Subject>История России</Subject>
+            <FileName>10_История_России_2023_3.pdf</FileName>
         </Book>
         <Book>
-            <FileName>10_SocialStudies_2023_4.pdf</FileName>
-            <Subject>Обществознание</Subject>
+            <FileName>10_Обществознание_2023_4.pdf</FileName>
         </Book>
         <Book>
             <FileName>10_Spotlight_2010_2.pdf</FileName>
-            <Subject>Spotlight</Subject>
         </Book>
     </ClassGroup>
     <ClassGroup name="11">
         <Book>
-            <FileName>11_Algebra_2014_1.pdf</FileName>
-            <Subject>Алгебра</Subject>
+            <FileName>11_Алгебра_2014_1.pdf</FileName>
         </Book>
         <Book>
-            <FileName>11_Geometry_2013_7.pdf</FileName>
-            <Subject>Геометрия</Subject>
+            <FileName>11_Геометрия_2013_7.pdf</FileName>
         </Book>
     </ClassGroup>
 </SchoolClasses>
