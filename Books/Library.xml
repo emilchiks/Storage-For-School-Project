@@ -1,35 +1,51 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <SchoolClasses>
-    <ClassGroup name="8">
-        <Book>
-            <FileName>8_Test_2000_0.pdf</FileName>
-            <Subject>Test</Subject>
-        </Book>
-    </ClassGroup>
-    <ClassGroup name="9">
-        <Book>
-            <FileName>9_Test_2013_9.pdf</FileName>
-            <Subject>Unknown</Subject>
-        </Book>
-    </ClassGroup>
     <ClassGroup name="10">
         <Book>
-            <FileName>10_FirstBook_2010_1.pdf</FileName>
+            <FileName>10_Algebra_Unknown_1.pdf</FileName>
             <Subject>Алгебра</Subject>
         </Book>
         <Book>
-            <FileName>10_SecondBook_2015_2.pdf</FileName>
-            <Subject>Русский язык</Subject>
+            <FileName>10_GeneralHistory_2023_3.pdf</FileName>
+            <Subject>История</Subject>
+        </Book>
+        <Book>
+            <FileName>10_Geography_2012_8.pdf</FileName>
+            <Subject>География</Subject>
+        </Book>
+        <Book>
+            <FileName>10_Geometry_2013_7.pdf</FileName>
+            <Subject>Геометрия</Subject>
+        </Book>
+        <Book>
+            <FileName>10_Physics_2014_6.pdf</FileName>
+            <Subject>Физика</Subject>
+        </Book>
+        <Book>
+            <FileName>10_ProbabilityAndStatistics_2023_5.pdf</FileName>
+            <Subject>Статистика</Subject>
+        </Book>
+        <Book>
+            <FileName>10_RussianHistory_2023_3.pdf</FileName>
+            <Subject>История России</Subject>
+        </Book>
+        <Book>
+            <FileName>10_SocialStudies_2023_4.pdf</FileName>
+            <Subject>Обществознание</Subject>
+        </Book>
+        <Book>
+            <FileName>10_Spotlight_2010_2.pdf</FileName>
+            <Subject>Spotlight</Subject>
         </Book>
     </ClassGroup>
     <ClassGroup name="11">
         <Book>
-            <FileName>11_ThirdBook_2020_3.pdf</FileName>
-            <Subject>Физика</Subject>
+            <FileName>11_Algebra_2014_1.pdf</FileName>
+            <Subject>Алгебра</Subject>
         </Book>
         <Book>
-            <FileName>11_NewBook_2018_4.pdf</FileName>
-            <Subject>Химия</Subject>
+            <FileName>11_Geometry_2013_7.pdf</FileName>
+            <Subject>Геометрия</Subject>
         </Book>
     </ClassGroup>
 </SchoolClasses>
