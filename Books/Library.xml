@@ -1,5 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <SchoolClasses>
+    <ClassGroup name="7">
+        <Book>
+            <FileName>7_Геометрия_2022_7.pdf</FileName>
+        </Book>
+    </ClassGroup>
+    <ClassGroup name="8">
+        <Book>
+            <FileName>8_Геометрия_2022_7.pdf</FileName>
+        </Book>
+    </ClassGroup>
+    <ClassGroup name="9">
+        <Book>
+            <FileName>9_Физика_2019_6.pdf</FileName>
+        </Book>
+        <Book>
+            <FileName>9_Обществознание_2022_4.pdf</FileName>
+        </Book>
+        <Book>
+            <FileName>9_История-России_2021_3.pdf</FileName>
+        </Book>
+        <Book>
+            <FileName>9_Геометрия_2022_7.pdf</FileName>
+        </Book>
+        <Book>
+            <FileName>9_География_2021_8.pdf</FileName>
+        </Book>
+        <Book>
+            <FileName>9_Алгебра_2016_1.pdf</FileName>
+        </Book>
+        <Book>
+            <FileName>9_Spotlight_2010_2.pdf</FileName>
+        </Book>
+    </ClassGroup>
     <ClassGroup name="10">
         <Book>
             <FileName>10_Алгебра_Unknown_1.pdf</FileName>
